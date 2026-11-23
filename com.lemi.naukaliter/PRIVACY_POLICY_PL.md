@@ -1,8 +1,8 @@
-# Polityka prywatności aplikacji „Nauka Liter”
+# Polityka prywatności aplikacji „Nauka Liter Alfabetu”
 
 Obowiązuje od: 23 listopada 2026 r.
 
-Polityka dotyczy aplikacji na Androida „Nauka Liter” (`com.lemi.naukaliter`), która uczy małe dzieci polskiego alfabetu. Wydawcą aplikacji jest Lech Migdał („my”). Kontakt: lech.migdal@gmail.com.
+Polityka dotyczy aplikacji na Androida „Nauka Liter Alfabetu” (`com.lemi.naukaliter`), która uczy małe dzieci polskiego alfabetu. Wydawcą aplikacji jest Lech Migdał („my”). Kontakt: lech.migdal@gmail.com.
 
 ## Najważniejsze informacje
 
